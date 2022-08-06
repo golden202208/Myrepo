@@ -13,3 +13,6 @@ git first test file
 
 test 23
 >>>>>>> 2364b2d767df852047efca5be3d80d54e63a4a8b
+
+
+2
