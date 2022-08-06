@@ -1,0 +1,13 @@
+git@github.com:golden202208/Myrepo.git
+
+https://github.com/golden202208/Myrepo.git
+
+
+PuttyKey
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCI29JWxAruZgWhmdqMEWxU+7CK9SUv9o5r+i9hNYe/vTBcO+I29IbngwCd2T8oE3fncO0avqYCF0PRvp551STjYSso42wCTfW/z+vvmwVDHEcXAf2Z5NDbGtdz1xtAccTfppcp7FSVyzZkNqJCOaFy+P/qzOxrgH9rVVy1N2I1PHGRoOqYzI8swq85Bqpcyk+IRnVkzGQCp6wpLuXC1g2PGOjYew4m6PumhkHIOy8LR/RPCK+0fGIIwioToZAgflJDUa/27qRPVriVVldWxA7oDfvEAJrk10BfWp0WUBAv2ckIOXmDlsMJsCZeOVTUgYypwxR9fPUsv8ioCO7L7jH9 rsa-key-20220806
+
+
+key=fingerprint
+
+ssh-rsa 2048 SHA256:GAF5DlgaJdvJ+ZJnXJp220i+Pv2cgyEhmIYQ49tJbKQ
